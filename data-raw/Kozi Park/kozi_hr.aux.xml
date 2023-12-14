@@ -1,0 +1,21 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>kozi_hr</Description>
+    <Histograms>
+      <HistItem>
+        <HistMin>-3.771054983139038</HistMin>
+        <HistMax>3.174053430557251</HistMax>
+        <BucketCount>256</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|2|1|0|0|0|0|0|0|1|1|1|1|0|0|0|0|0|0|0|0|0|0|1|2|0|1|0|0|0|1|0|3|1|1|0|0|4|3|1|0|2|2|3|0|3|4|1|2|3|7|9|3|6|10|11|8|17|5|10|13|7|11|16|15|18|16|22|22|24|38|33|43|35|50|71|74|81|67|65|76|107|104|100|118|132|105|137|147|169|182|173|192|220|214|212|209|226|266|297|275|294|342|331|302|350|347|288|326|324|304|258|311|298|296|264|261|260|273|228|219|194|205|184|171|156|183|142|160|143|144|137|141|106|118|111|110|102|88|97|77|54|60|53|41|46|48|34|21|34|30|26|26|24|19|14|18|13|21|14|19|14|15|11|15|6|4|5|9|16|4|8|6|3|5|8|3|0|5|1|1|2|2|1|1|0|1|0|2|1|1|0|0|0|1|1|0|0|0|1|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|1</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata>
+      <MDI key="STATISTICS_COVARIANCES">0.2994357205730919</MDI>
+      <MDI key="STATISTICS_EXCLUDEDVALUES"></MDI>
+      <MDI key="STATISTICS_SKIPFACTORX">1</MDI>
+      <MDI key="STATISTICS_SKIPFACTORY">1</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>

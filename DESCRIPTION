@@ -1,0 +1,28 @@
+Package: rbe.dashboard
+Title: Relax and Breathe Easy Dashboard
+Version: 0.0.0.9000
+Authors@R: person('Lisa', 'Rein', email = 'lrein@mcw.edu', role = c('cre', 'aut'))
+Description: A Shiny application for displaying Relax & Breathe Easy data.
+License: GPL (>= 3)
+Imports: 
+    bslib,
+    config (>= 0.3.2),
+    golem (>= 0.4.1),
+    leafem,
+    leaflet,
+    pkgload,
+    scales,
+    shiny (>= 1.7.5),
+	stars,
+    waiter
+Encoding: UTF-8
+LazyData: true
+LazyDataCompression: xz
+RoxygenNote: 7.2.3
+Suggests: 
+    spelling,
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Language: en-US
+Depends: 
+    R (>= 2.10)

@@ -1,0 +1,21 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>rivr_pm25</Description>
+    <Histograms>
+      <HistItem>
+        <HistMin>0</HistMin>
+        <HistMax>14.41656494140625</HistMax>
+        <BucketCount>256</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>391|88|71|74|73|59|77|44|64|62|53|68|53|37|41|45|35|52|68|36|52|37|51|48|37|42|49|35|42|36|41|47|37|41|42|53|33|36|60|43|50|42|45|37|34|35|28|30|33|29|35|32|34|30|35|29|34|31|27|33|31|27|32|25|36|30|25|29|27|25|33|32|35|28|32|23|34|34|24|25|18|15|24|23|25|23|36|23|20|24|25|22|22|20|22|17|22|20|27|15|26|22|16|25|24|25|27|11|17|23|4|13|20|10|17|11|20|17|17|14|17|13|11|14|12|7|14|13|9|18|12|16|18|10|15|16|11|14|11|14|19|12|8|12|7|7|9|9|14|8|11|7|9|11|14|6|11|15|12|10|8|8|9|3|11|5|4|11|9|8|10|12|5|6|7|13|10|8|12|2|7|4|5|4|4|6|6|7|7|4|4|6|6|8|2|2|7|3|3|2|7|3|1|2|2|1|6|8|11|2|5|6|2|2|2|6|1|2|5|3|6|1|1|0|5|0|2|3|2|2|0|3|1|2|0|1|0|2|2|2|0|2|0|1|0|0|1|0|0|2|0|0|0|0|0|1</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata>
+      <MDI key="STATISTICS_COVARIANCES">9.729982376170442</MDI>
+      <MDI key="STATISTICS_EXCLUDEDVALUES"></MDI>
+      <MDI key="STATISTICS_SKIPFACTORX">1</MDI>
+      <MDI key="STATISTICS_SKIPFACTORY">1</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
